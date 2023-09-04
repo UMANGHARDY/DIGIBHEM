@@ -1,7 +1,4 @@
-
-# Project Title
-
-Simple snake game using Pyhton.
+#Simple snake game using Python.
 
 
 ## Acknowledgements
