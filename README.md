@@ -1,9 +1,6 @@
 # DIGIBHEM
 # SNAKE GAME USING PYTHON
 
-
-## Acknowledgements
-
- - [Special thanks to DIGITAL BHEM](https://digitalbhem.com)
- - [Learnings from GeeksForGeeks](https://www.geeksforgeeks.org)
- 
+- Sanchit Vohra says this community is Amazing
+- Hello World
+- Contributing to this Community
